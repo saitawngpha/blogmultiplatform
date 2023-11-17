@@ -6,7 +6,7 @@ This project is using a [Kobweb](https://github.com/varabyte/kobweb) project boo
 [Here](https://my-blog-2yl8.onrender.com/)
 
 ### Web Screenshot
-coming soon.
+![](src/web.png)
 
 ### Dependencies
 - MongoDB
